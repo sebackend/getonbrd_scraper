@@ -7,7 +7,7 @@
 
 ## 📝 Requirements
 
-**Nodejs v16.8.0**
+**Nodejs v16.15.0**
 
 Set node version with _nvm_ previously installed, by running:
 
